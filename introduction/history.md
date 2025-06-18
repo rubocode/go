@@ -13,7 +13,8 @@ The C programming language was essentially an abstract representation of hardwar
 
 ![pdp-11](/go/photos/pdp-11.png)
 
-> **Photo**: Dennis Ritchie ([INTJ](/mbti/types/intj)) and Ken Thompson ([INTP](/mbti/types/intp)) with the PDP-11 at Bell Laboratories (1972).
+> **Photo**: Dennis Ritchie ([INTJ](/mbti/types/intj)) and Ken Thompson ([INTP](/mbti/types/intp)) with the PDP-11 at Bell Laboratories (1972).  
+> I visited Bell Laboratories in Murray Hill, New Jersey during my undergraduate years at Stevens Institute of Technology in Hoboken, New Jersey.
 
 When the ideas of object oriented programming were desired by another Bell Laboratories research project undertaken by Bjarne Stroustrup ([INTP](/mbti/types/intp)), he introduced notions in Simula into what he called C with Classes.  This project evolved into the C++ programming language.
 
@@ -24,6 +25,3 @@ Google founders Larry Page ([INTP](/mbti/types/intp)) and Sergey Brin ([INTP](/m
 They went back to Bell Laboratories legends Ken Thompson and Rob Pike for assistance.  They added Robert Griesemer of HotJava fame into the team.  They created the Go programming language.  It was a minimalist design.  They intentionally avoided the pitfalls of C++.  The language was meant to be simple, yet sophisticated.  They focused on the stability and the quality of the design.  It  was intended to make better use of modern multicore CPU architectures.
 
 You can look at the Go programming language as the minimalist successor to the C programming language.  Ken Thompson is the common link in these two endeavors.  Now we have an elegant set of abstractions on top of what C used to provide.  These include packaging and modularization complemented with design mechanisms for composition based integration.
-
-> **Note**: I visited Bell Laboratories in Murray Hill, New Jersey during my undergraduate years at Stevens Institute of Technology in Hoboken, New Jersey.
-
