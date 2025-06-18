@@ -4,6 +4,9 @@
 
 ## Language
 
+> The language of truth is simple.  
+> **Euripides**
+
 * [Packages](packages)
 * [Types](types)
 * [Dynamics](dynamics)
