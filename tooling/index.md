@@ -9,6 +9,5 @@
 
 * [Modules](modules)
 * [Formatting](formatting)
-* [Logging](logging)
 * [Building](building)
 * [Testing](testing)
