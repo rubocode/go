@@ -4,7 +4,7 @@
 
 ## Control
 
-> Freedom is the only worthy goal in life.
+> Freedom is the only worthy goal in life.  
 > It is won by disregarding things that lie beyond our control.  
 > **Epictetus**
 
