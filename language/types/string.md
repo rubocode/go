@@ -12,4 +12,3 @@ A _string_ is a sequence of bytes.  The length of a _string_ is obtained using t
 ### References
 
 * [Strings, bytes, runes and characters in Go (Rob Pike, October 23, 2013)](https://go.dev/blog/strings)
-* [Arrays, slices (and strings): The mechanics of 'append' (Rob Pike, September 26, 2013)](https://go.dev/blog/slices)
