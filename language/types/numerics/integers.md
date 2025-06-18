@@ -1,4 +1,4 @@
-> [numeric](./)
+> [numerics](./)
 
 ![banner](/go/photos/banner.png)
 
