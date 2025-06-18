@@ -7,8 +7,4 @@
 > How could you say the best form of government is a republic if you think the universe is a monarchy?  
 > **Alan Watts**
 
-### References
-
-* [Using Go Modules (Tyler Bui-Palsulich and Eno Compton, March 19, 2019)](https://go.dev/blog/using-go-modules)
-* [Publishing Go Modules (Tyler Bui-Palsulich, September 26, 2019)](https://go.dev/blog/publishing-go-modules)
-* [Go Modules: v2 and Beyond (Jean Barkhuysen and Tyler Bui-Palsulich, November 7, 2019)](https://go.dev/blog/v2-go-modules)
+* [References](references)
