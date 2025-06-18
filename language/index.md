@@ -11,4 +11,5 @@
 * [Types](types)
 * [Dynamics](dynamics)
 * [Generics](generics)
+* [Quirks](quirks)
 * [Library](library)
