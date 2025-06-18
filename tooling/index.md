@@ -4,8 +4,8 @@
 
 ## Tooling
 
-> Never tell people how to do things.  Tell them what to do and they will surprise you with their ingenuity.  
-> **George S. Patton**
+> Details matter, it’s worth waiting to get it right.  
+> **Steve Jobs**
 
 * [Modules](modules)
 * [Formatting](formatting)
