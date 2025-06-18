@@ -4,6 +4,9 @@
 
 ## Numeric
 
+> A good decision is based on knowledge and not numbers.  
+> **Plato**
+
 | Type | Description |
 | :--- | :---------- |
 | uint8 | the set of all unsigned  8-bit integers (0 to 255) |
