@@ -10,4 +10,5 @@
 * [Effective Go](https://go.dev/doc/effective_go)
 * [Go Standard Library](https://pkg.go.dev/std)
 * [Go Language Specification](https://go.dev/ref/spec)
-* [Go User Manual](https://go.dev/doc/)
+* [Go User Manual](https://go.dev/doc)
+* [Go Blog](https://go.dev/blog)
