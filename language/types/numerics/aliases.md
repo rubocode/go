@@ -6,10 +6,10 @@
 
 | Type | Description |
 | :--- | :---------- |
-| byte | alias for uint8 |
-| rune | alias for int32 |
+| byte | Alias for uint8 |
+| rune | Alias for int32 |
 | | |
-| uint | either 32 or 64 bits |
-| int | same size as uint |
-| uintptr | an unsigned integer large enough to store the uninterpreted bits of a pointer value |
+| uint | Either 32 or 64 bits |
+| int | Same size as uint |
+| uintptr | An unsigned integer large enough to store the uninterpreted bits of a pointer value |
 
