@@ -4,5 +4,5 @@
 
 ## Channel
 
-> Irrigators channel waters.  Fletchers straighten arrows.  Carpenters bend wood.  The wise master themselves.  
-> **The Dhammapada (Verse 80)**
+> The single biggest problem in communication is the illusion that it has taken place.  
+> **George Bernard Shaw**
