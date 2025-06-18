@@ -9,7 +9,7 @@
 > Data structures, not algorithms, are central to programming.  
 > **Rob Pike**
 
-| [Boolean](boolean) | [Numeric](numeric) | [String](string) |
-| [Array](array) | [Slice](slice) | [Struct](struct) |
-| [Pointer](pointer) | [Function](function) | [Interface](interface) |
-| [Map](map) | [Channel](channel) |
+| [Boolean](boolean) | [Numerics](numerics) | [String](string) |
+| [Array](array) | [Slice](slice) | [Map](map) |
+| [Struct](struct) | [Interface](interface) | [Pointer](pointer) |
+| [Function](function) | [Channel](channel) |
