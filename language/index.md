@@ -10,6 +10,5 @@
 * [Packages](packages)
 * [Types](types)
 * [Dynamics](dynamics)
-* [Mechanics](mechanics)
 * [Generics](generics)
 * [Library](library)
