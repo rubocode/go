@@ -4,6 +4,9 @@
 
 ## String
 
+> I could not think without writing.  
+> **Jean Piaget**
+
 A _string_ is a sequence of bytes.  The length of a _string_ is obtained using the built in function _len_.
 
 ### References
