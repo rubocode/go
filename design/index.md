@@ -1,0 +1,8 @@
+> [home](../)
+
+![banner](/go/photos/banner.png)
+
+## Design
+
+> I think the major good idea in Unix was its clean and simple interface: open, close, read, and write.  
+> **Ken Thompson**
