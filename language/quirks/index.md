@@ -1,4 +1,4 @@
-> [language](../]
+> [language](../)
 
 ![banner](/go/photos/banner.png)
 
