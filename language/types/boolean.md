@@ -4,4 +4,4 @@
 
 ## Boolean
 
-The type that represents boolean values is _bool_ and can hold the values _true_ and _false_.
+The type that represents boolean values is ***bool*** and can hold the values ***true*** and ***false***.
