@@ -4,8 +4,8 @@
 
 ## Tooling
 
-> Remembering that I’ll be dead soon is the most important tool I’ve ever encountered to help me make the big choices in life.  
-> **Steve Jobs**
+> Never tell people how to do things.  Tell them what to do and they will surprise you with their ingenuity.  
+> **George S. Patton**
 
 * [Modules](modules)
 * [Formatting](formatting)
