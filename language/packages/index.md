@@ -8,7 +8,9 @@
 > I run alone because I don’t feel safe in packs.  
 > **Muhammad Ali**
 
-The primary unit of organization in a Go program is the package.  A package consists of one or more files that reside in the same folder.  A file consists of _import_, _constant_, _variable_, _type_ and _function_ declarations.  It is conventional to name the folder containing the package with the name of the package.
+The primary unit of organization in a Go program is the ***package***.
+A package consists of one or more files that reside in the same folder.
+A file consists of ***import***, ***constant***, ***variable***, [***type***](../types) and ***function*** declarations.  It is conventional to name the folder containing the package with the name of the package.
 
 Packages export identifiers that start in uppercase.  Identifiers in lowercase are visible only inside the package block.  There is no need for scope specifiers.  Simple!
 
