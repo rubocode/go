@@ -1,4 +1,4 @@
-> [home](/)
+> [home](/computing)
 > &bull; This is a work in progress...
 
 ![banner](/go/photos/banner.png)
